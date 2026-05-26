@@ -1,0 +1,19 @@
+{
+  "name": "Zinx Casino",
+  "short_name": "Zinx Casino",
+  "theme_color": "",
+  "background_color": "#0E0727",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1779788262-favicon-2026-05-26t122454988.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

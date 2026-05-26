@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://zinxcasino-online.com/
+Sitemap: https://zinxcasino-online.com/sitemap.xml
